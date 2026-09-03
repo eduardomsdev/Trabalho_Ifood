@@ -9,7 +9,6 @@ import SlideJornada from "./components/SlideJornada";
 import SlideSucesso from "./components/SlideSucesso";
 import SlideEmpreendedorismo from "./components/SlideEmpreendedorismo";
 import SlideAgil from "./components/SlideAgil";
-import SlideDesafio from "./components/SlideDesafio";
 import SlideAprendizado from "./components/SlideAprendizado";
 import SlideFontes from "./components/SlideFontes";
 
@@ -21,7 +20,6 @@ const slides = [
   { Component: SlideSucesso, label: "Por que deu certo" },
   { Component: SlideEmpreendedorismo, label: "Empreendedorismo" },
   { Component: SlideAgil, label: "Metodologias ágeis" },
-  { Component: SlideDesafio, label: "Desafio" },
   { Component: SlideAprendizado, label: "Aprendizado" },
   { Component: SlideFontes, label: "Fontes" },
 ];

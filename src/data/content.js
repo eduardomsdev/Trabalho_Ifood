@@ -6,26 +6,14 @@ export const timeline = [
   {
     year: "2011",
     title: "Nasce o Disk Cook",
-    text: "Patrick Sigrist, Eduardo Baer, Guilherme Bonifácio e Felipe Fioravante fundam, em São Paulo, o Disk Cook: um guia impresso de cardápios cujos pedidos eram feitos por uma central telefônica.",
+    text: "Patrick Sigrist, Eduardo Baer, Guilherme Bonifácio e Felipe Fioravante fundam, em São Paulo, o Disk Cook: um guia impresso de cardápios cujos pedidos eram feitos por uma central telefônica. Logo depois, o negócio migra para site e apps, já como iFood.",
     source: 1,
-  },
-  {
-    year: "2012",
-    title: "Site e app chegam ao ar",
-    text: "O negócio migra do papel e do telefone para o digital: são lançados o site e os aplicativos para Android e iOS, já sob o nome iFood.",
-    source: 2,
   },
   {
     year: "2013",
     title: "Entra o Grupo Movile",
     text: "A empresa recebe investimento do Grupo Movile, fundado por Fabricio Bloisi, que assume a presidência do iFood.",
     source: 2,
-  },
-  {
-    year: "2014",
-    title: "Fusão e controle da Movile",
-    text: "O iFood se funde com a RestauranteWeb (ligada ao grupo Just Eat) e a Movile assume o controle majoritário do negócio.",
-    source: 3,
   },
   {
     year: "2018",
@@ -71,18 +59,6 @@ export const successFactors = [
     source: 5,
   },
   {
-    icon: "RefreshCcw",
-    title: "Adaptação constante",
-    text: "Expandiu de comida para mercado, farmácia e pet, seguindo mudanças no comportamento do consumidor.",
-    source: 4,
-  },
-  {
-    icon: "Users2",
-    title: "Times autônomos",
-    text: "Organiza a tecnologia em squads — grupos pequenos e multidisciplinares com autonomia de decisão.",
-    source: 6,
-  },
-  {
     icon: "Bot",
     title: "Aposta em IA e robótica",
     text: "Mantém mais de uma dezena de times dedicados a inteligência artificial e testa robôs autônomos de entrega.",
@@ -100,11 +76,6 @@ export const entrepreneurshipConcepts = [
     id: "digital",
     label: "Empreendedorismo digital",
     text: "O modelo de negócio inteiro depende de tecnologia própria: site, aplicativo, logística de entregadores e, mais recentemente, inteligência artificial.",
-  },
-  {
-    id: "inovacao",
-    label: "Inovação",
-    text: "A virada de um guia impresso para uma plataforma digital, em um momento em que o delivery online praticamente não existia no Brasil, é o núcleo inovador do caso.",
   },
   {
     id: "visao",
